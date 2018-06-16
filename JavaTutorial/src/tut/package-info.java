@@ -1,6 +1,5 @@
 /**
  * Das Standard-package dieses Tutorials
- * {@docRoot}
  */
 package tut;
 /*Packages sind Ordner zur Strukturierung des Projekts.

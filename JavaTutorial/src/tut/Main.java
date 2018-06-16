@@ -3,13 +3,20 @@ package tut;
 /**
  * Die Haupt-Klasse dieses Tutorials
  * @author Voreck
- * @version 1.0.0-3,   06.16.18
+ * @version 1.0.0-4,   06.16.18
  */
 public class Main {
 	//Jede ausführbare Code-Zeile muss in einer Klasse stehen
 	
 	/**
+	 * Ungenutzt
+	 */
+	public Main() {}
+	
+	
+	/**
 	 * Einstiegspunkt des Programms
+	 * Ein Hello World Programm
 	 * @param args Commandline argumente
 	 */
 	public static void main (String[]args) {
